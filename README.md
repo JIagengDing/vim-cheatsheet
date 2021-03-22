@@ -2,6 +2,7 @@
 
 >Disclaimer: This cheatsheet is summarized from personal experience and other online tutorials. It should not be considered as an official advice.
 
+This is for my nvim config.(https://github.com/jiagengding/nvim)
 ## Global
 ```bash
 :help keyword # open help for keyword
@@ -12,10 +13,10 @@
 
 ## Cursor movement
 ```bash
-h        # move cursor left
-j        # move cursor down
-k        # move cursor up
-l        # move cursor right
+n        # move cursor left
+e        # move cursor down
+u        # move cursor up
+i        # move cursor right
 H        # move to top of screen
 M        # move to middle of screen
 L        # move to bottom of screen
